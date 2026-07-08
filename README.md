@@ -2,15 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Abid%20Hasan%20Likhon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descAlignY=62" />
 
-<h2>
-Hi there 👋 I'm <b>Abid Hasan Likhon</b>
-</h2>
 
-<p>
-<b>Full Stack Web Developer</b> • React.js • Django • Django REST Framework
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React.js+%7C+Django+REST+Framework;REST+API+Development;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Django+REST+Framework;REST+API+Development;Always+Learning+New+Technologies" />
 
 <p>
 
@@ -18,19 +11,17 @@ Hi there 👋 I'm <b>Abid Hasan Likhon</b>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/md-abid-hasan-likhon-0b6402321/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:likhon2422@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
