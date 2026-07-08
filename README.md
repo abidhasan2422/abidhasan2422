@@ -10,14 +10,10 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student at **Daffodil International University**
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Currently learning **Advanced Django REST Framework, PostgreSQL, Docker**
-- 🚀 Interested in building scalable and secure web applications
-- 🤝 Open to collaboration and learning from the developer community
-- 📫 Reach me at **your_email@example.com**
+Hello! I'm **Abid Hasan Likhon**, a Computer Science and Engineering student at **Daffodil International University** with a strong passion for Full Stack Web Development. Currently, I am expanding my skill set by learning Advanced **Django REST Framework**, **PostgreSQL**, and **Docker** with the goal of building scalable and secure web applications. I am always open to collaboration and eager to learn from the developer community,and contribute to meaningful projects.
 
 ---
 
