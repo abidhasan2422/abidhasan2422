@@ -119,8 +119,12 @@ Hello! I'm **Abid Hasan Likhon**, a Computer Science and Engineering student at 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
+*"Building scalable applications, learning continuously, and growing one commit at a time."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:2563EB,100:38BDF8&section=footer"/>
 
 </div>
