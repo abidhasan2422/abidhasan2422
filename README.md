@@ -29,38 +29,45 @@ Hello! I'm **Abid Hasan Likhon**, a Computer Science and Engineering student at 
 
 ---
 
-## 🛠 Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
 
-### 💻 Languages
+<table>
+<tr>
+<td><strong>💻 Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,sql" />
-</p>
+<tr>
+<td><strong>⚛️ Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+</td>
+</tr>
 
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
-</p>
-
-### ⚙ Backend
-
-<p>
+<tr>
+<td><strong>⚙️ Backend</strong></td>
+<td>
 <img src="https://skillicons.dev/icons?i=django" />
-</p>
+</td>
+</tr>
 
-### 🗄 Database
+<tr>
+<td><strong>🗄️ Database</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
-</p>
-
-### 🧰 Tools
-
-<p>
+<tr>
+<td><strong>🛠️ Tools</strong></td>
+<td>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+</td>
+</tr>
 
+</table>
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
