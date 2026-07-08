@@ -75,7 +75,7 @@ Hello! I'm **Abid Hasan Likhon**, a Computer Science and Engineering student at 
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"> Contribution Graph
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidhasan2422&theme=tokyo-night&hide_border=true"/>
