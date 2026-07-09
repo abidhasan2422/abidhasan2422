@@ -85,7 +85,7 @@ Hello! I'm **Abid Hasan Likhon**, a Computer Science and Engineering student at 
 
 <div align="center">
 
-### 💙 Thanks for Visiting!
+### Thanks for Visiting! 💙 
 
 *"Building scalable applications, learning continuously, and growing one commit at a time."*
 
