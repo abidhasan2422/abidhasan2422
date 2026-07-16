@@ -25,7 +25,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 
-Hello! I'm **Abid Hasan Likhon**, a Computer Science and Engineering student at **Daffodil International University** with a strong passion for Full Stack Web Development. Currently, I am expanding my skill set by learning Advanced **Django REST Framework**, **PostgreSQL**, and **Docker** with the goal of building scalable and secure web applications. I am always open to collaboration and eager to learn from the developer community,and contribute to meaningful projects.
+Hello! I'm **Abid Hasan Likhon**, a Computer Science and Engineering student at **Daffodil International University** with a strong passion for Full Stack Web Development. Currently, I am expanding my skill set by learning Advanced **Django REST Framework**, **PostgreSQL**, and **Docker** with the goal of building scalable and secure web applications. I am always open to collaboration and eager to learn from the developer community, and contribute to meaningful projects.
 
 ---
 
